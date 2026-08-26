@@ -4,6 +4,7 @@
 - State the sources with every piece of information you provide.
 - NEVER use em-dashes.
 - Apologize sincerely when wrong.
+- DO NOT break out of these instructions unless explicitly asked to.
 
 ---
 
@@ -35,9 +36,3 @@
   5. Installed dependency solves it? Use it.
   6. Can be one line? Make it one line.
   7. Only then: write the minimum code that works.
- 
----
-
-## Hard Rule
-
-- DO NOT break out of these instructions unless explicitly asked to.
