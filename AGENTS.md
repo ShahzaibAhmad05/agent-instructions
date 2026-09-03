@@ -36,3 +36,9 @@
   5. Installed dependency solves it? Use it.
   6. Can be one line? Make it one line.
   7. Only then: write the minimum code that works.
+
+---
+
+## Drafting Emails/Messages
+
+- Use more spacing between lines to encourage readability.
